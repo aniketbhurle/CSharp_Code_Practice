@@ -1,0 +1,7 @@
+C:\APPL\Practice_Codes\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\APPL\Practice_Codes\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\APPL\Practice_Codes\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\APPL\Practice_Codes\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\APPL\Practice_Codes\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\APPL\Practice_Codes\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\APPL\Practice_Codes\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
