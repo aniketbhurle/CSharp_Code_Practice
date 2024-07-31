@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtable_Practice", "Hasht
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Practice", "Stack_Practice\Stack_Practice.csproj", "{5369FBCE-FB5A-49B6-9B49-ECF6101F5041}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_Practice", "Queue_Practice\Queue_Practice.csproj", "{14810C3F-FBA5-4AD1-840C-15BBA1558238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5369FBCE-FB5A-49B6-9B49-ECF6101F5041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5369FBCE-FB5A-49B6-9B49-ECF6101F5041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5369FBCE-FB5A-49B6-9B49-ECF6101F5041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14810C3F-FBA5-4AD1-840C-15BBA1558238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14810C3F-FBA5-4AD1-840C-15BBA1558238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14810C3F-FBA5-4AD1-840C-15BBA1558238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14810C3F-FBA5-4AD1-840C-15BBA1558238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
