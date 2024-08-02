@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack_Practice", "Stack_Pra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_Practice", "Queue_Practice\Queue_Practice.csproj", "{14810C3F-FBA5-4AD1-840C-15BBA1558238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList_NonGen", "SortedList_NonGen\SortedList_NonGen.csproj", "{2C079CE0-33C5-4782-9D22-5BD522FF2182}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedList_NonGen", "SortedList_NonGen\SortedList_NonGen.csproj", "{2C079CE0-33C5-4782-9D22-5BD522FF2182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollection", "GenericCollection\GenericCollection.csproj", "{A2A19590-49E8-4E03-A53A-865B9DF91599}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{2C079CE0-33C5-4782-9D22-5BD522FF2182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C079CE0-33C5-4782-9D22-5BD522FF2182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C079CE0-33C5-4782-9D22-5BD522FF2182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A19590-49E8-4E03-A53A-865B9DF91599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A19590-49E8-4E03-A53A-865B9DF91599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A19590-49E8-4E03-A53A-865B9DF91599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A19590-49E8-4E03-A53A-865B9DF91599}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
