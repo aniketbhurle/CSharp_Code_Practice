@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Complex_List", "Gen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Dictonary", "Generic_Dictonary\Generic_Dictonary.csproj", "{78797685-62FE-4BC5-8DD7-DD3361B7CF65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_HashSet", "Generic_HashSet\Generic_HashSet.csproj", "{59228E77-08A2-49E3-8D38-05D4ECDCE396}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{78797685-62FE-4BC5-8DD7-DD3361B7CF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78797685-62FE-4BC5-8DD7-DD3361B7CF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78797685-62FE-4BC5-8DD7-DD3361B7CF65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59228E77-08A2-49E3-8D38-05D4ECDCE396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59228E77-08A2-49E3-8D38-05D4ECDCE396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59228E77-08A2-49E3-8D38-05D4ECDCE396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59228E77-08A2-49E3-8D38-05D4ECDCE396}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
