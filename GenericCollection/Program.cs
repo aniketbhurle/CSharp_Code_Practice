@@ -100,6 +100,32 @@ class Program
 		}
 
 
+
+		//Queue
+		Queue<string> queue_1 = new Queue<string>();
+		//FIFO
+		queue_1.Enqueue("Q-1"); //Adding data by Enqueue in the Queue
+		queue_1.Enqueue("Q-2");
+		queue_1.Enqueue("Q-3");
+
+		Console.WriteLine("\nQueue");
+		Console.WriteLine("\nAccessing the Queue by foreach loop: ");
+		foreach (string i in queue_1)
+		{
+			Console.Write(" " + i);
+		}
+
+		Console.WriteLine("Removing the first element :  "+ queue_1.Dequeue());
+
+		Console.WriteLine("\nAccessing the Queue by foreach loop after Dequeue: ");
+		foreach (string i in queue_1)
+		{
+			Console.Write(" " + i);
+		}
+
+		//
+
+
 		Console.ReadKey();
 	}
 }
