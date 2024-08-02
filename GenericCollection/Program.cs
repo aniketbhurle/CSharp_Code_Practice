@@ -123,7 +123,21 @@ class Program
 			Console.Write(" " + i);
 		}
 
-		//
+		//LinkedList
+
+		LinkedList<string> likedlist = new LinkedList<string>();
+
+		likedlist.AddLast("num1");
+		likedlist.AddLast("num2");
+		likedlist.AddLast("num3");
+		likedlist.AddFirst("num4");
+
+		Console.WriteLine("\nLinkedList --- ");
+		Console.WriteLine("\nAccessing the LinkedList by foreach loop: ");
+		foreach (string i in likedlist)
+		{
+			Console.Write(" " + i);
+		}
 
 
 		Console.ReadKey();
