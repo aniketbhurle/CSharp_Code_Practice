@@ -40,7 +40,7 @@
 				int i = EmpNames.IndexOf("Uber");
 				EmpNames.Insert((i-1),"Jugnoo");
 
-				Console.WriteLine("\n\n Added Jugnoo before Uber - New Employees: ");
+				Console.WriteLine("\n\nAdded Jugnoo before Uber - New Employees: ");
 				foreach (string empName in EmpNames)
 				{
 					Console.Write(empName + " ");
