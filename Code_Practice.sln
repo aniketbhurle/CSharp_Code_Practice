@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_Practice", "Queue_Pra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedList_NonGen", "SortedList_NonGen\SortedList_NonGen.csproj", "{2C079CE0-33C5-4782-9D22-5BD522FF2182}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollection", "GenericCollection\GenericCollection.csproj", "{A2A19590-49E8-4E03-A53A-865B9DF91599}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCollection", "GenericCollection\GenericCollection.csproj", "{A2A19590-49E8-4E03-A53A-865B9DF91599}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_List", "Generic_List\Generic_List.csproj", "{737ACDCE-AFA2-451B-B32B-BA395199022A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic_List", "Generic_List\Generic_List.csproj", "{737ACDCE-AFA2-451B-B32B-BA395199022A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Complex_List", "Generic_Complex_List\Generic_Complex_List.csproj", "{2294C8F7-443F-4EA2-BD3B-FD3751E9CF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{737ACDCE-AFA2-451B-B32B-BA395199022A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{737ACDCE-AFA2-451B-B32B-BA395199022A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{737ACDCE-AFA2-451B-B32B-BA395199022A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2294C8F7-443F-4EA2-BD3B-FD3751E9CF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2294C8F7-443F-4EA2-BD3B-FD3751E9CF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2294C8F7-443F-4EA2-BD3B-FD3751E9CF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2294C8F7-443F-4EA2-BD3B-FD3751E9CF16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
