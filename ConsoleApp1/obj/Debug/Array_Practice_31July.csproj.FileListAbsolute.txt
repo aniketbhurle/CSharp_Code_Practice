@@ -5,7 +5,10 @@ C:\APPL\Practice_Codes\ConsoleApp1\obj\Debug\Array_Practice_31July.csproj.CoreCo
 C:\APPL\Practice_Codes\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\APPL\Practice_Codes\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\APPL\Practice_Codes\ConsoleApp1\obj\Debug\Array_Practice_31July.csproj.AssemblyReference.cache
-C:\Users\bhurl\Source\Repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\obj\Debug\Array_Practice_31July.csproj.AssemblyReference.cache
-C:\Users\bhurl\Source\Repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\obj\Debug\Array_Practice_31July.csproj.CoreCompileInputs.cache
-C:\Users\bhurl\Source\Repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\bhurl\Source\Repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\bhurl\source\repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\obj\Debug\Array_Practice_31July.csproj.AssemblyReference.cache
+C:\Users\bhurl\source\repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\obj\Debug\Array_Practice_31July.csproj.CoreCompileInputs.cache
+C:\Users\bhurl\source\repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bhurl\source\repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bhurl\source\repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bhurl\source\repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bhurl\source\repos\aniketbhurle\CSharp_Code_Practice\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
